@@ -1,0 +1,5 @@
+LICENSE: Public domain (HAER / Library of Congress)
+Source: Wikimedia Commons, File:Steam Engine for Shop, lineshaft, detail of crosshead, rod and flywheel - East Broad Top Railroad and Coal Company, Machine Shop, State Route 994, West of U.S. Route 522, HAER PA,31-ROCFN,1A-12.tif
+URL: https://commons.wikimedia.org/wiki/File:Steam_Engine_for_Shop,_lineshaft,_detail_of_crosshead,_rod_and_flywheel_-_East_Broad_Top_Railroad_and_Coal_Company,_Machine_Shop,_State_Route_994,_West_of_U.S._Route_522,_HAER_PA,31-ROCFN,1A-12.tif
+Description: Detail of steam engine and line shaft in machine shop. Historic American Engineering Record (HAER), Jack Boucher photographer, 1986.
+Converted from TIFF to JPEG for web use; no other modifications.

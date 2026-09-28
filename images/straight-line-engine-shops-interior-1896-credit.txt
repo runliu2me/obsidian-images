@@ -1,0 +1,5 @@
+LICENSE: Public domain
+Source: Wikimedia Commons, File:Straight Line Engine Shops, Interior, 1896.jpg
+URL: https://commons.wikimedia.org/wiki/File:Straight_Line_Engine_Shops,_Interior,_1896.jpg
+Description: Interior of Straight Line Engine Shops, Syracuse, NY, 1896. Shows overhead line shafting and belts driving machine tools.
+No modifications were made to the image.
