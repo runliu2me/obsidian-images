@@ -1,0 +1,6 @@
+Porter Style C jointer with a motor mounted on the machine. From a 1918 magazine advertisement.
+Caption on the source: "The Porter Style C Jointer with direct motor drive."
+License: Public domain. Author unknown.
+This is a woodworking jointer, not a Ford Highland Park machine tool, and not one of the magneto operations. It shows what "each machine has its own motor" looks like.
+Source: https://commons.wikimedia.org/wiki/File:Porter_Joiner,_1918.png
+Unmodified.
