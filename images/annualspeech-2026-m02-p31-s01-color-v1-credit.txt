@@ -1,0 +1,9 @@
+2026 annual speech, M02 micro software, native editable v1
+2.31 / 2025年秋 · 50%
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+Sundar Pichai：Google Cloud Next 2026，2026.04.22
+75%是Google新代码AI生成占比且工程师审批，2025秋50%；不是全部历史代码、无人审核或全行业平均。
+https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/cloud-next-2026-sundar-pichai/

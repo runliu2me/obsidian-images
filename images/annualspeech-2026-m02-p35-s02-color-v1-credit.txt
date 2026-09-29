@@ -1,0 +1,10 @@
+2026 annual speech, M02 micro software, native editable v1
+2.35 / 78% · 计划自建更多
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+Kelsey McKeon：The AI Build vs. Buy Report 2026，Retool，2026.02.17
+2025年底调查817名软件构建者，包括Retool用户，非企业总体代表样本。35%已自建替换至少一项外购工具功能，78%计划2026写更多，意向非完成成果。
+https://retool.com/blog/ai-build-vs-buy-report-2026
+https://retool.com/newsroom/build-vs-buy-report-2026

@@ -1,0 +1,9 @@
+2026 annual speech, M02 micro software, native editable v1
+2.50 / CRM介入
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+AI落地营：成果汇报会，2026.08.07
+2.6万多学生、1个百分点236万为潜在年度增量测算，非已实现收入。154维、54000样本、AUC0.8191为项目自报。AUC是随机正负配对的排序能力，不是每位学生分类准确率；未获得独立测试集详细口径，不伪造ROC曲线。CRM干预闭环为后续规划，效果需验证。
+https://run2me-cons.feishu.cn/docx/MDZkdFwx2o1V2cxJ62NcuFSnnnf

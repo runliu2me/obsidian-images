@@ -1,0 +1,20 @@
+2026 annual speech, M02 micro software, native editable v1
+2.2 / Anthropic · 2026.02.23
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+COBOL Report, US Department of Defense, April 1960. Public domain US federal work. https://commons.wikimedia.org/wiki/File:COBOL_Report_Apr60.djvu
+
+Anthropic：COBOL Modernization with AI: Breaking the Cost Barrier，2026.02.23
+官方讲AI降低老代码探索和分析门槛，仍需人工架构判断、测试、风险控制；不证明AI已夺走IBM客户或一行代码造成全部跌幅。
+https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization
+
+IBM Think：What Is COBOL?，2026.02.25更新
+CODASYL于1959年组织开发，1960年发布首版；1959指开发起点。
+https://www.ibm.com/think/topics/cobol
+
+美国国防部：COBOL Report，1960年4月
+真实1960年报告封面，美国联邦政府作品，公共领域；不是1959年诞生日照片。
+https://commons.wikimedia.org/wiki/File:COBOL_Report_Apr60.djvu
+https://run2me-cons.feishu.cn/file/LbKFbHi5oo2F6MxNuoOctiZLnfL

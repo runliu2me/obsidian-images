@@ -1,0 +1,18 @@
+2026 annual speech, M02 micro software, native editable v1
+2.4 / 它只动了一行软件。
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+Anthropic：COBOL Modernization with AI: Breaking the Cost Barrier，2026.02.23
+官方讲AI降低老代码探索和分析门槛，仍需人工架构判断、测试、风险控制；不证明AI已夺走IBM客户或一行代码造成全部跌幅。
+https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization
+
+Reuters：IBM posts steepest daily drop since 2000 after Anthropic says AI can modernize COBOL；新浪财经，2026.02.24
+2026.02.23收盘跌13.2%，主屏−13%取整；约300亿美元为市值缩水取整，非营收损失。报道市场对AI冲击的担忧，不证明股价由单一因素决定。
+https://finance.yahoo.com/news/ibm-posts-steepest-daily-drop-024205381.html
+https://finance.sina.com.cn/stock/t/2026-02-24/doc-inhnxhni2009790.shtml
+
+刘润：年度演讲 · 2026，第二模块，2026.09.29现稿
+讲者观点、业务比喻、角色建议和对未来的判断；不作为实测结果或就业保障。
+https://run2me-cons.feishu.cn/docx/ORyldFRqXoLULTxDme7cf7Tyn59

@@ -1,0 +1,10 @@
+2026 annual speech, M02 micro software, native editable v1
+2.26 / 80%
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+Pendo：The 2019 Feature Adoption Report，2019
+匿名产品使用数据，三个月观察窗；80%功能很少或从未使用，不是80%客户、付款金额或每一软件保证数。20%是100−80的演讲解释。
+https://www.pendo.io/resources/the-2019-feature-adoption-report/
+https://go.pendo.io/rs/185-LQW-370/images/2019%20Feature%20Adoption%20Report%20Digital.pdf

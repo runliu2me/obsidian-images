@@ -1,0 +1,10 @@
+2026 annual speech, M02 micro software, native editable v1
+2.3 / 市值减少约300亿美元
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+Reuters：IBM posts steepest daily drop since 2000 after Anthropic says AI can modernize COBOL；新浪财经，2026.02.24
+2026.02.23收盘跌13.2%，主屏−13%取整；约300亿美元为市值缩水取整，非营收损失。报道市场对AI冲击的担忧，不证明股价由单一因素决定。
+https://finance.yahoo.com/news/ibm-posts-steepest-daily-drop-024205381.html
+https://finance.sina.com.cn/stock/t/2026-02-24/doc-inhnxhni2009790.shtml
