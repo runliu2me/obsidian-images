@@ -1,0 +1,10 @@
+FILE: fred-brooks-berlin-2007.jpg
+SHA256: b2ff10825c0178f2aa7de225232e6b4c3c93636325b5cc87bebd9c11503aeb13
+PIXELS: 2000x3008
+DATE: 2007-11-09
+SUBJECT: Frederick P. Brooks Jr. speaking in Berlin. This is not 1975 and not the writing of The Mythical Man-Month.
+AUTHOR: photograph supplied by Fred Brooks; copyright owned by SD&M (www.sdm.de). Uploader on Commons: Mark Pellegrini (Raul654), who wrote that Brooks sent the photo and Carola Lauber at SD&M gave permission.
+LICENSE: CC BY-SA 3.0
+LICENSE_URL: https://creativecommons.org/licenses/by-sa/3.0
+SOURCE_PAGE: https://commons.wikimedia.org/wiki/File:Fred_Brooks.jpg
+MODIFIED: no
