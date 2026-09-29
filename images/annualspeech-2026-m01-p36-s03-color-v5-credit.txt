@@ -1,0 +1,3 @@
+2026 annual speech, M01 art direction v5
+1.36 / AI问号
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module and reusable template background illustrations: built-in image_gen; template backgrounds based on the user supplied AbleSlide reference. Typography: CJGaoDeGuo-MH / 仓迹高德国妙黑, following the supplied 0910 comparison and 0915 final 120% stroke-width specimen. Historical photographs retain their licensed sources; Solow and Ford portraits are AI-processed background-extraction derivatives with minor clarity/edge enhancement. Other photos use standard fitting crops and overlays.

@@ -1,0 +1,10 @@
+2026 annual speech, M01 art direction v5
+1.12 / 1882珍珠街
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module and reusable template background illustrations: built-in image_gen; template backgrounds based on the user supplied AbleSlide reference. Typography: CJGaoDeGuo-MH / 仓迹高德国妙黑, following the supplied 0910 comparison and 0915 final 120% stroke-width specimen. Historical photographs retain their licensed sources; Solow and Ford portraits are AI-processed background-extraction derivatives with minor clarity/edge enhancement. Other photos use standard fitting crops and overlays.
+
+PHOTO pearl-street-station-engraving-1882-1890.jpg
+Pearl Street Station building engraving, Earl Morter, about 1882—1890. Public domain historical artwork. Not a photograph of the opening night.
+Verified project source: 05-materials/ideas/2026-09-28-纽约时报1882-珍珠街首夜报道原文.md; original speech source comments preserved.
+Source: https://commons.wikimedia.org/wiki/File:PearlStreetStation.jpg
+Commons file attribution: Earl Morter; source IEEE Global History Network and Consolidated Edison Company of New York; date between 1882 and 1890. Commons marks public domain in the United States.
+

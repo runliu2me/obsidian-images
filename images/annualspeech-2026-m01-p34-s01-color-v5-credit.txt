@@ -1,0 +1,16 @@
+2026 annual speech, M01 art direction v5
+1.34 / 1987索洛回收
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module and reusable template background illustrations: built-in image_gen; template backgrounds based on the user supplied AbleSlide reference. Typography: CJGaoDeGuo-MH / 仓迹高德国妙黑, following the supplied 0910 comparison and 0915 final 120% stroke-width specimen. Historical photographs retain their licensed sources; Solow and Ford portraits are AI-processed background-extraction derivatives with minor clarity/edge enhancement. Other photos use standard fitting crops and overlays.
+
+PHOTO robert-solow-ai-cutout-v4.png
+LICENSE: CC BY-SA 2.0
+Author: Olaf Storbeck (https://www.flickr.com/photos/22240556@N03)
+Source: Wikimedia Commons, File:Robert Solow by Olaf Storbeck.jpg
+URL: https://commons.wikimedia.org/wiki/File:Robert_Solow_by_Olaf_Storbeck.jpg
+Description: Robert Solow, winner of the Nobel Prize in Economics in 1987. This portrait was not taken in 1987 but shows Solow as an older economist; Commons description identifies him as Nobel laureate.
+No modifications were made to the image. On-screen use requires attribution to Olaf Storbeck and CC BY-SA 2.0 license notice.
+
+Processing: built-in image_gen background extraction and mild clarity/edge optimization, commissioned by the user. Preserve identity, age, expression and clothing. This is an AI-processed derivative of the cited photograph, not a new historical photograph.
+
+
+This composed preview is shared under CC BY-SA 2.0. Keep Olaf Storbeck attribution, original source, and https://creativecommons.org/licenses/by-sa/2.0/ when sharing or adapting.

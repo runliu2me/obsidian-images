@@ -1,0 +1,13 @@
+2026 annual speech, M01 art direction v5
+1.22 / 1925 Touring 290美元
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module and reusable template background illustrations: built-in image_gen; template backgrounds based on the user supplied AbleSlide reference. Typography: CJGaoDeGuo-MH / 仓迹高德国妙黑, following the supplied 0910 comparison and 0915 final 120% stroke-width specimen. Historical photographs retain their licensed sources; Solow and Ford portraits are AI-processed background-extraction derivatives with minor clarity/edge enhancement. Other photos use standard fitting crops and overlays.
+
+PHOTO ford-model-t-1925-touring.jpg
+1925 Ford Model T Touring Car
+Photo by ModelTMitch, 2018-01-25.
+Source: https://commons.wikimedia.org/wiki/File:1925_Ford_Model_T_touring.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Unmodified original photograph.
+
+
+This composed preview is shared under CC BY-SA 4.0. Keep photographer attribution, original source, and https://creativecommons.org/licenses/by-sa/4.0/ when sharing or adapting.

@@ -1,0 +1,7 @@
+2026 annual speech, M01 art direction v5
+1.11 / 主题
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module and reusable template background illustrations: built-in image_gen; template backgrounds based on the user supplied AbleSlide reference. Typography: CJGaoDeGuo-MH / 仓迹高德国妙黑, following the supplied 0910 comparison and 0915 final 120% stroke-width specimen. Historical photographs retain their licensed sources; Solow and Ford portraits are AI-processed background-extraction derivatives with minor clarity/edge enhancement. Other photos use standard fitting crops and overlays.
+
+PHOTO m01-ship-textless-v5.png
+Source: user-provided AbleSlide design document, 0924 M01 cover, media WmE7bpiGgoxDZrxNGDycDYMGnub. Built-in image_gen removed the superseded Chinese chapter headline and reconstructed covered fields. Preserve the reference ship and composition; derived conceptual artwork, not a historical photograph. User-directed annualspeech design draft. Reference https://ableslide.feishu.cn/docx/ZJ1ddtbNFozUCrxuBmXcM99AnDf
+
