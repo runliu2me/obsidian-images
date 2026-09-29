@@ -1,0 +1,11 @@
+TITLE: IBM Japan's technicians and a System/360 in the machine room, IBM Japan headquarters.
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:IBM_System_360_at_IBM_Japan_head_office.jpg
+AUTHOR: IBM Japan
+DATE: 1967-01-11
+LICENSE: Public domain. Wikimedia Commons marks the file public domain.
+USAGE PERMISSION: PUBLIC DOMAIN
+PIXELS: 784x1248. This is the largest file on that Commons page. Not upscaled.
+SHA256: 97083119b644657f6dd1a68854c90c21bcaf21ebbe41b2c19980864c94079b17
+NOTES: The console is labeled IBM SYSTEM 360, with tape drives behind it. This is a 1967 working machine room, not a present-day IBM Z mainframe and not the February 2026 stock-market event.
+DOWNLOADED: 2026-09-29
+MODIFIED: no

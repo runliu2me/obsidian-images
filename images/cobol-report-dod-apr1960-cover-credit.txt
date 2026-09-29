@@ -1,0 +1,11 @@
+TITLE: Report to Conference on Data Systems Languages, including Initial Specifications for a Common Business Oriented Language (COBOL). Department of Defense, April 1960. Cover.
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:COBOL_Report_Apr60.djvu
+AUTHOR: CODASYL, published by the U.S. Department of Defense
+DATE: April 1960
+LICENSE: Public domain. Wikimedia Commons marks the file public domain.
+USAGE PERMISSION: PUBLIC DOMAIN
+PIXELS: 1920x2520 JPEG render of page 1. The DjVu scan itself is 2368x3108, 140 pages.
+SHA256: cde800aeab01822e78734a6441d3a269b5d8b2d53ec7ad19d45c0122a1408b59
+NOTES: This is the cover of the April 1960 government report that published the initial COBOL specifications. The language effort began in 1959. Do not say this cover is a 1959 photograph. The JPEG is a page-1 render of that public-domain scan for display, not a redraw and not an upscale of a smaller photograph.
+DOWNLOADED: 2026-09-29
+MODIFIED: page-1 render only, no crop of the cover design

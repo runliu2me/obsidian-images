@@ -1,0 +1,11 @@
+TITLE: Marc Andreessen
+SOURCE PAGE: https://commons.wikimedia.org/wiki/File:Marc_Andreessen_(1).jpg
+AUTHOR: Joi
+DATE: 2008-08-12
+LICENSE: Creative Commons Attribution 2.0. https://creativecommons.org/licenses/by/2.0/
+USAGE PERMISSION: CC BY 2.0
+PIXELS: 3696x2440
+SHA256: 078e87527a6d5ba08c1a3c6fbc0759b3c7670692ec5ffc7ed40fed73eb4f0bdb
+NOTES: Portrait of Marc Andreessen in 2008. The Wall Street Journal essay "Why Software Is Eating the World" is dated August 20, 2011. This photograph is not of him writing that essay, and the Journal page itself was not copied.
+DOWNLOADED: 2026-09-29
+MODIFIED: no
