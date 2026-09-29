@@ -1,0 +1,9 @@
+2026 annual speech, M01 color draft v1
+1.20 / 玻璃工厂
+Layout and text: annualspeech project. Common background: newly AI-generated, built-in image_gen. Historical photographs are unmodified and placed within this layout.
+
+PHOTO ford-highland-park-glass-windows-1910s.jpg
+Ford Motor Company, Detroit, Michigan. Detroit Publishing Company, 1910—1920. Library of Congress det.4a23964.
+Source: https://commons.wikimedia.org/wiki/File:Ford_Motor_Company,_Detroit,_Michigan.jpg
+Public domain, no known restrictions. Photograph kept unmodified.
+

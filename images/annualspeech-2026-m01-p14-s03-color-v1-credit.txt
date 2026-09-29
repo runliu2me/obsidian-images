@@ -1,0 +1,14 @@
+2026 annual speech, M01 color draft v1
+1.14 / 索洛前句
+Layout and text: annualspeech project. Common background: newly AI-generated, built-in image_gen. Historical photographs are unmodified and placed within this layout.
+
+PHOTO robert-solow-1987-portrait.jpg
+LICENSE: CC BY-SA 2.0
+Author: Olaf Storbeck (https://www.flickr.com/photos/22240556@N03)
+Source: Wikimedia Commons, File:Robert Solow by Olaf Storbeck.jpg
+URL: https://commons.wikimedia.org/wiki/File:Robert_Solow_by_Olaf_Storbeck.jpg
+Description: Robert Solow, winner of the Nobel Prize in Economics in 1987. This portrait was not taken in 1987 but shows Solow as an older economist; Commons description identifies him as Nobel laureate.
+No modifications were made to the image. On-screen use requires attribution to Olaf Storbeck and CC BY-SA 2.0 license notice.
+
+
+This composed preview is shared under CC BY-SA 2.0. Keep Olaf Storbeck attribution, original source, and https://creativecommons.org/licenses/by-sa/2.0/ when sharing or adapting.

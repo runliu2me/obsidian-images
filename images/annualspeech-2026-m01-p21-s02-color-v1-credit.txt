@@ -1,0 +1,9 @@
+2026 annual speech, M01 color draft v1
+1.21 / Model K与1907
+Layout and text: annualspeech project. Common background: newly AI-generated, built-in image_gen. Historical photographs are unmodified and placed within this layout.
+
+PHOTO ford-model-k-1907-tourer.jpg
+1907 Ford Model K Tourer, Warbirds & Wheels museum. Photographer Pseudopanax, 2014-10-06. Modern museum photograph, not a 1907 photograph.
+Source: https://commons.wikimedia.org/wiki/File:1907_Ford_Model_K_Tourer_(Warbirds_%26_Wheels_museum).jpg
+Public domain. Photograph kept unmodified.
+

@@ -1,0 +1,12 @@
+2026 annual speech, M01 color draft v1
+1.26 / 福特译句
+Layout and text: annualspeech project. Common background: newly AI-generated, built-in image_gen. Historical photographs are unmodified and placed within this layout.
+
+PHOTO henry-ford-portrait-1919.jpg
+Portrait of Henry Ford, about 1919. Photographer: Fred Hartsook.
+License: Public domain.
+This is a studio portrait, not a photograph inside the Highland Park plant.
+Source: https://commons.wikimedia.org/wiki/File:Henry_ford_1919.jpg
+Direct file: https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg
+Unmodified.
+

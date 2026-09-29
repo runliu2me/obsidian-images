@@ -1,0 +1,15 @@
+2026 annual speech, M01 color draft v1
+1.14 / 1946 ENIAC
+Layout and text: annualspeech project. Common background: newly AI-generated, built-in image_gen. Historical photographs are unmodified and placed within this layout.
+
+PHOTO eniac-moore-school-1946.jpg
+ENIAC at the Moore School of Electrical Engineering, 1946
+Classic view while the machine was still at the University of Pennsylvania.
+Commons description: Cpl. Irwin Goldstein (foreground) sets the switches on one of the ENIAC's function tables. The same description later writes "CPL Irwin Goldstine." Do not identify the soldier as Herman Goldstine.
+Caption to retain: U.S. Army Photo. Photographer: unidentified U.S. Army photographer. From an 8x10 transparency, courtesy Harold Breaux.
+Source: https://commons.wikimedia.org/wiki/File:Classic_shot_of_the_ENIAC_(full_resolution).jpg
+Direct file: https://upload.wikimedia.org/wikipedia/commons/e/ee/Classic_shot_of_the_ENIAC_%28full_resolution%29.jpg
+License: Public domain. Commons LicenseShortName: Public domain.
+This photograph does not establish ENIAC as the only first computer.
+Unmodified Commons original.
+
