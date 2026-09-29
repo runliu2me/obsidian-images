@@ -1,0 +1,9 @@
+2026 annual speech, M01 art direction v4
+1.20 / 玻璃窗细节
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module and reusable template background illustrations: built-in image_gen; template backgrounds based on the user supplied AbleSlide reference. Typography: CJGaoDeGuo-MH / 仓迹高德国妙黑, following the supplied 0910 comparison and 0915 final 120% stroke-width specimen. Historical photographs retain their licensed sources; Solow and Ford portraits are AI-processed background-extraction derivatives with minor clarity/edge enhancement. Other photos use standard fitting crops and overlays.
+
+PHOTO ford-highland-park-glass-windows-1910s.jpg
+Ford Motor Company, Detroit, Michigan. Detroit Publishing Company, 1910—1920. Library of Congress det.4a23964.
+Source: https://commons.wikimedia.org/wiki/File:Ford_Motor_Company,_Detroit,_Michigan.jpg
+Public domain, no known restrictions. Photograph kept unmodified.
+

@@ -1,0 +1,14 @@
+2026 annual speech, M01 art direction v4
+1.26 / 福特译句
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module and reusable template background illustrations: built-in image_gen; template backgrounds based on the user supplied AbleSlide reference. Typography: CJGaoDeGuo-MH / 仓迹高德国妙黑, following the supplied 0910 comparison and 0915 final 120% stroke-width specimen. Historical photographs retain their licensed sources; Solow and Ford portraits are AI-processed background-extraction derivatives with minor clarity/edge enhancement. Other photos use standard fitting crops and overlays.
+
+PHOTO henry-ford-ai-cutout-v4.png
+Portrait of Henry Ford, about 1919. Photographer: Fred Hartsook.
+License: Public domain.
+This is a studio portrait, not a photograph inside the Highland Park plant.
+Source: https://commons.wikimedia.org/wiki/File:Henry_ford_1919.jpg
+Direct file: https://upload.wikimedia.org/wikipedia/commons/1/18/Henry_ford_1919.jpg
+Unmodified.
+
+Processing: built-in image_gen background extraction and mild clarity/edge optimization, commissioned by the user. Preserve identity, age, expression and clothing. This is an AI-processed derivative of the cited photograph, not a new historical photograph.
+
