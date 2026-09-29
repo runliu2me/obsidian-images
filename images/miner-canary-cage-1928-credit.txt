@@ -1,0 +1,12 @@
+标题: Canary coal mine（矿工手托金丝雀笼）
+原页: https://commons.wikimedia.org/wiki/File:Canary_coal_mine.jpg
+作者: George McCaa，美国矿务局（U.S. Bureau of Mines）
+日期: 1928
+许可原文: Public domain（美国政府作品）
+USAGE PERMISSION: PUBLIC DOMAIN
+像素: 1000x750
+SHA256: fae6e57f62385eefedc072d33319bad480a8fee02bb0fa1367bf718f2cc043cd
+画面里实际有什么: 黑白照片。一名戴矿灯头盔、背着呼吸器的矿工侧脸朝左，左手托着一个小金属丝笼，笼里有一只金丝雀。
+禁止把它说成: 英国煤矿，也不是1986年退役现场。这是1928年美国矿务局的照片，讲的是同一件事：金丝雀用来测一氧化碳。
+下载日期: 2026-09-29（同文件已存 05-materials/inbox/2026-09-29-mine-canary-cage-1928.jpg）
+MODIFIED: no
