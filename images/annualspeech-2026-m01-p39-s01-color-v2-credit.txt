@@ -1,0 +1,3 @@
+2026 annual speech, M01 art direction v2
+1.39 / 不是不努力
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module illustrations: built-in image_gen. Typography: MiSans artwork (Xiaomi official font). Historical photographs: unmodified within layout; standard fitting crops and overlays are part of layout.

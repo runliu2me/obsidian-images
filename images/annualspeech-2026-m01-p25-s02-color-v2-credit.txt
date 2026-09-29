@@ -1,0 +1,14 @@
+2026 annual speech, M01 art direction v2
+1.25 / 13分10秒
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module illustrations: built-in image_gen. Typography: MiSans artwork (Xiaomi official font). Historical photographs: unmodified within layout; standard fitting crops and overlays are part of layout.
+
+PHOTO ford-magneto-flywheel-line-1913.jpg
+Ford magneto and flywheel line, Highland Park, commonly dated 1913
+Workers attach parts to flywheels moving along the line, with bins of parts beside them.
+Author: unknown.
+Source: https://commons.wikimedia.org/wiki/File:Ford_assembly_line_-_1913.jpg
+Direct file: https://upload.wikimedia.org/wikipedia/commons/2/29/Ford_assembly_line_-_1913.jpg
+License: Public domain. Commons LicenseShortName: Public domain. Commons date: 1913.
+The photograph does not show a count of 29 operations, and it does not show the times 20 minutes, 13 minutes 10 seconds, or 5 minutes. It also does not show a separate small motor on each operation.
+Unmodified Commons original.
+

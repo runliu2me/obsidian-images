@@ -1,0 +1,9 @@
+2026 annual speech, M01 art direction v2
+1.20 / 1910投产
+Layout and text: annualspeech project. New architectural / voyage / motor / glass module illustrations: built-in image_gen. Typography: MiSans artwork (Xiaomi official font). Historical photographs: unmodified within layout; standard fitting crops and overlays are part of layout.
+
+PHOTO ford-highland-park-glass-windows-1910s.jpg
+Ford Motor Company, Detroit, Michigan. Detroit Publishing Company, 1910—1920. Library of Congress det.4a23964.
+Source: https://commons.wikimedia.org/wiki/File:Ford_Motor_Company,_Detroit,_Michigan.jpg
+Public domain, no known restrictions. Photograph kept unmodified.
+
