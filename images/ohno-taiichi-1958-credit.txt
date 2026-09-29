@@ -1,0 +1,10 @@
+FILE: ohno-taiichi-1958.jpg
+SHA256: 23b867000e21130996888f81ef38ff94e58e3b4f75dbac071a9db98c6d9c05db
+PIXELS: 1315x1448
+DATE: published 1958-11-30
+SUBJECT: Taiichi Ohno portrait printed in Toyota's twenty-year company history. Not the 1982 scene of the cost sentence.
+AUTHOR: トヨタ自動車工業株式会社社史編集委員会
+SOURCE_BOOK: 『トヨタ自動車20年史』トヨタ自動車工業、1958年11月30日
+LICENSE: Public domain (Wikimedia Commons template PD-Japan-organization)
+SOURCE_PAGE: https://commons.wikimedia.org/wiki/File:Ohno-Taiichi-1.jpg
+MODIFIED: no
