@@ -1,0 +1,15 @@
+2026 annual speech, M04 Third Evolution, native editable v1
+4.38 / 128户独居老人
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+ASSET: water.png
+OpenAI image_gen，2026-10-01，本任务生成
+AI场景／艺术示意，不冒充纪录照片。
+
+
+上海杨浦区，独居老人智能水表
+水表背景为AI场景示意，不是具体试点实拍。128户是2023年杨浦区累计，不是单个街道；水量预警是阈值机制，不包装成大模型发现病情。
+https://www.shyp.gov.cn/shypq/xwzx-tpyw/20240905/463301.html
+https://www.shyp.gov.cn/shypq/xwzx-bmdt/20230726/433302.html

@@ -1,0 +1,16 @@
+2026 annual speech, M04 Third Evolution, native editable v1
+4.32 / 一起长大
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+ASSET: duck-desk.jpg
+https://pollen-robotics.com/assets/microduck/gallery/desk.webp
+Pollen Robotics官方产品图片，原作者保留版权。
+仅格式转换为JPEG，以支持PowerPoint。
+
+Pollen Robotics，Microduck官方产品与发布页
+官方媒体包图片；仅说明开放的软件许可不等于产品照片自由许可；出厂有预训练行走能力，用户可训练新行为。
+https://pollen-robotics.com/microduck/
+https://pollen-robotics.com/microduck/blog/introducing-microduck/
+https://pollen-robotics.com/microduck/press-kit/

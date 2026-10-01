@@ -1,0 +1,29 @@
+2026 annual speech, M04 Third Evolution, native editable v1
+4.22 / 40% 感到紧张
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+ASSET: home-night.png
+OpenAI image_gen，2026-10-01，本任务生成
+AI场景／艺术示意，不冒充纪录照片。
+
+
+ASSET: software.png
+本项目M01／M03已采用的AI背景素材
+AI场景示意，不是案例公司现场照片。
+
+
+ASSET: night.png
+本项目M01／M03已采用的AI背景素材
+AI场景示意，不是案例公司现场照片。
+
+
+ASSET: office-orders-v6.png
+本项目M01／M03已采用的AI背景素材
+AI场景示意，不是案例公司现场照片。
+
+
+Ipsos AI Monitor 2026
+83%兴奋、40%紧张并非互斥，不能加成100%；52%是主观可能性，不是预测失业率。
+https://www.ipsos.com/sites/default/files/ct/news/documents/2026-06/Ipsos-AI-Monitor-2026.pdf

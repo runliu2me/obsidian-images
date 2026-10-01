@@ -1,0 +1,15 @@
+2026 annual speech, M04 Third Evolution, native editable v1
+4.66 / 开源信息随演讲全文发布
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+ASSET: template-quote-bg.jpg
+https://ableslide.feishu.cn/docx/ZJ1ddtbNFozUCrxuBmXcM99AnDf
+AbleSlide提供的本届设计参考；仅本年度演讲项目使用。
+
+
+刘润开放代码安排；xiaozhi-esp32上游
+不虚构已发布下载地址；上游MIT等许可及第三方服务条件保留，不声称公开代码就能免除全部第三方费用。
+https://github.com/78/xiaozhi-esp32
+https://run2me-cons.feishu.cn/docx/ORyldFRqXoLULTxDme7cf7Tyn59
