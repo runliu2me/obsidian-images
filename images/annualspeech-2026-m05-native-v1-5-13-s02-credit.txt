@@ -1,0 +1,9 @@
+2026 annual speech, M05 Happiness Plateau, native editable v1
+5.13 / 剩余预期寿命15年：另一把尺子
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+Sanderson与Scherbov前瞻年龄；UN2019
+前瞻老年年龄a应满足e(a)=15；不能简单以60岁预期寿命减15代表该阈值。
+https://link.springer.com/chapter/10.1007/978-3-030-42472-5_12
