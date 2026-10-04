@@ -1,0 +1,15 @@
+TITLE: Friendship Bench grandmother and client, Harare, Zimbabwe
+SOURCE: https://commons.wikimedia.org/wiki/File:Friendship-Bench-Zimbabwe.jpg
+AUTHOR: Costa Juta (embedded metadata: Constantine Juta)
+DATE: source page states 2022-10-21; this is also upload date, not independently verified capture date
+LICENSE: Creative Commons Attribution-ShareAlike 4.0 International
+LICENSE URL: https://creativecommons.org/licenses/by-sa/4.0/
+USAGE PERMISSION: CC BY-SA 4.0
+VRT PERMISSION TICKET: 2022102110144325
+PIXELS: 1748x1165; full public Commons original, no larger unmodified openly licensed version found
+SHA256: fec34c5b1e8bd07ef863b433c9593808a397fb0048d7c2b177aa6db7377c8538
+DEPICTS: two women on a wooden Friendship Bench; community counsellor with clipboard, client talking; both wear masks. Harare project counselling session per photographer description.
+DO NOT LABEL AS: 2006 first bench; Chibanda or Erica; a named clinic entrance; proof of clinical outcomes.
+ATTRIBUTION: Photo: Costa Juta / Wikimedia Commons / CC BY-SA 4.0. Unmodified.
+DOWNLOADED: 2026-10-04
+MODIFIED: no
