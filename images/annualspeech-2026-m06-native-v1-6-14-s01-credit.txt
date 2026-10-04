@@ -1,0 +1,13 @@
+2026 annual speech, M06 100 Trillion Services, native editable v1
+6.14 / 美国：1970年服务占PCE过半
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+ASSET: template-data-bg.jpg
+https://ableslide.feishu.cn/docx/ZJ1ddtbNFozUCrxuBmXcM99AnDf
+用户提供的AbleSlide年度演讲设计参考及前五模块既有底图
+
+美国BEA NIPA表2.3.5
+PCE含虚拟租金与第三方医疗支付，不能与中国住户调查作同口径消费偏好排名。
+https://apps.bea.gov/national/Release/TXT/NipaDataA.txt

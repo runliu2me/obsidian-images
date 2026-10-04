@@ -1,0 +1,71 @@
+2026 annual speech, M06 100 Trillion Services, native editable v1
+6.11 / 2024—2026：商品与服务，两条累计同比线
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+ASSET: template-data-bg.jpg
+https://ableslide.feishu.cn/docx/ZJ1ddtbNFozUCrxuBmXcM99AnDf
+用户提供的AbleSlide年度演讲设计参考及前五模块既有底图
+
+国家统计局商品／服务零售逐期发布
+29个观测点都为年内累计同比，不是当月同比。完整逐期链接见数据文档。
+https://www.stats.gov.cn/sj/zxfb/202403/t20240327_1948175.html
+https://www.stats.gov.cn/sj/zxfb/202403/t20240321_1948109.html
+https://www.stats.gov.cn/sj/zxfb/202404/t20240416_1948573.html
+https://www.stats.gov.cn/sj/zxfb/202404/t20240416_1948561.html
+https://www.stats.gov.cn/sj/zxfb/202405/t20240520_1950429.html
+https://www.stats.gov.cn/sj/zxfb/202405/t20240517_1950397.html
+https://www.stats.gov.cn/sj/zxfb/202406/t20240617_1954709.html
+https://www.stats.gov.cn/sj/zxfb/202406/t20240617_1954710.html
+https://www.stats.gov.cn/sj/zxfb/202407/t20240715_1955609.html
+https://www.stats.gov.cn/sj/zxfb/202407/t20240715_1955618.html
+https://www.stats.gov.cn/sj/zxfb/202408/t20240815_1955981.html
+https://www.stats.gov.cn/sj/zxfb/202408/t20240815_1955986.html
+https://www.stats.gov.cn/sj/zxfb/202409/t20240914_1956481.html
+https://www.stats.gov.cn/sj/zxfb/202409/t20240914_1956487.html
+https://www.stats.gov.cn/sj/zxfb/202410/t20241018_1957039.html
+https://www.stats.gov.cn/sj/zxfb/202410/t20241018_1957044.html
+https://www.stats.gov.cn/sj/zxfb/202411/t20241115_1957427.html
+https://www.stats.gov.cn/sj/zxfb/202411/t20241115_1957431.html
+https://www.stats.gov.cn/sj/zxfb/202412/t20241216_1957759.html
+https://www.stats.gov.cn/sj/zxfb/202412/t20241216_1957767.html
+https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958327.html
+https://www.stats.gov.cn/sj/zxfb/202502/t20250228_1958817.html
+https://www.stats.gov.cn/sj/zxfb/202503/t20250317_1959014.html
+https://www.stats.gov.cn/sj/zxfb/202503/t20250317_1959010.html
+https://www.stats.gov.cn/sj/zxfb/202504/t20250416_1959317.html
+https://www.stats.gov.cn/sj/zxfb/202504/t20250416_1959321.html
+https://www.stats.gov.cn/sj/zxfb/202505/t20250519_1959858.html
+https://www.stats.gov.cn/sj/zxfb/202505/t20250519_1959864.html
+https://www.stats.gov.cn/sj/zxfb/202506/t20250616_1960169.html
+https://www.stats.gov.cn/sj/zxfb/202506/t20250616_1960173.html
+https://www.stats.gov.cn/sj/zxfb/202507/t20250715_1960409.html
+https://www.stats.gov.cn/sj/zxfb/202507/t20250715_1960414.html
+https://www.stats.gov.cn/sj/zxfb/202508/t20250815_1960783.html
+https://www.stats.gov.cn/sj/zxfb/202508/t20250815_1960789.html
+https://www.stats.gov.cn/sj/zxfb/202509/t20250915_1961177.html
+https://www.stats.gov.cn/sj/zxfb/202509/t20250915_1961181.html
+https://www.stats.gov.cn/sj/zxfb/202510/t20251020_1961606.html
+https://www.stats.gov.cn/xxgk/jd/sjjd2020/202510/t20251020_1961617.html
+https://www.stats.gov.cn/sj/zxfb/202511/t20251114_1961852.html
+https://www.stats.gov.cn/sj/zxfb/202511/t20251114_1961858.html
+https://www.stats.gov.cn/sj/zxfb/202512/t20251215_1962071.html
+https://www.stats.gov.cn/sj/zxfb/202512/t20251215_1962075.html
+https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962323.html
+https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html
+https://www.stats.gov.cn/sj/zxfb/202603/t20260316_1962786.html
+https://www.stats.gov.cn/sj/zxfb/202603/t20260316_1962780.html
+https://www.stats.gov.cn/sj/zxfb/202604/t20260416_1963325.html
+https://www.stats.gov.cn/sj/zxfb/202604/t20260416_1963330.html
+https://www.stats.gov.cn/sj/zxfb/202605/t20260518_1963727.html
+https://www.stats.gov.cn/sj/zxfb/202605/t20260518_1963732.html
+https://www.stats.gov.cn/sj/zxfb/202606/t20260616_1963949.html
+https://www.stats.gov.cn/sj/zxfb/202606/t20260616_1963954.html
+https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964127.html
+https://www.stats.gov.cn/xxgk/jd/sjjd2020/202607/t20260716_1964146.html
+https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965052.html
+https://www.stats.gov.cn/sj/zxfb/202608/t20260817_1965056.html
+https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965311.html
+https://www.stats.gov.cn/sj/zxfb/202609/t20260915_1965307.html
+https://run2me-cons.feishu.cn/docx/XeKVdh9a5o0tblxHAgQcd1xHnae
