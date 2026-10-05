@@ -1,0 +1,18 @@
+2026 annual speech, M07 Glocal, native editable v1
+7.25 / 整页出现，停留
+Layout and text: annualspeech project. Typeface: CJGaoDeGuo-MH. Preview exported from native editable PPTX, not a flattened slide source.
+Original deck/reference backgrounds: AbleSlide reference supplied by the user. Rights belong to original owners.
+AI illustrative backdrops are not documentary photographs of the case companies.
+
+ASSET: facade-clean.png
+
+AI示意，非真实案例现场
+
+AEMET2026夏季气候与热浪专题
+1869是历史重建序列，不说157年连续同质观测；61天是多次热浪天数，不是单次连续61天。
+https://www.aemet.es/en/noticias/2026/09/resumen_verano2026
+https://www.aemet.es/en/noticias/2026/09/olas_de_calor_2026
+
+imagegen配对外墙示意
+相同楼体、机位与光线；第二图在第一图上添加室外机；不能作具体案件事实证据。
+https://run2me-cons.feishu.cn/docx/ORyldFRqXoLULTxDme7cf7Tyn59
