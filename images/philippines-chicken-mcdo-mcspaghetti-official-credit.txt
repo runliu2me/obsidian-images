@@ -1,0 +1,15 @@
+TITLE: 菲律宾麦当劳官网 1pc. Chicken McDo with McSpaghetti 产品图
+SOURCE PAGE: https://www.mcdonalds.com.ph/our-food/chicken-platters
+AUTHOR/RIGHTS HOLDER: McDonald's Philippines（Golden Arches Development Corp.）
+DATE: 官网现行（2024-03 上传），2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 500x500
+SHA256: d02e6574272e8c46796b4b1c98121ba8e88ae85fcf9000bcc86c0c587171480d
+WHAT IS IN THE IMAGE: 盘里一份 McSpaghetti（意面浇红色甜口酱、撒奶酪丝）配一块炸鸡。
+DO NOT DESCRIBE AS: 官方只写牛肉末加招牌酱，画面里看不出热狗，别说“意面里有热狗”
+NOTES: 官网原图 500×500，未找到 McSpaghetti 单品的更大官方图。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

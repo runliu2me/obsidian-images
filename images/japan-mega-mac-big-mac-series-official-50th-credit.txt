@@ -1,0 +1,15 @@
+TITLE: 日本麦当劳 50 周年官网「FUNBURGERの真実」メガマック＆ビッグマックシリーズ 页头图
+SOURCE PAGE: https://www.mcdonalds.co.jp/campaign/thankyou50th/history/funburger/megamacbigmac/
+AUTHOR/RIGHTS HOLDER: 日本マクドナルド株式会社
+DATE: 50 周年官网（2021），2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 1200x400
+SHA256: dcb0a2a0d92192287ec5c883a2d43a3ecc78d91c1a79d9ee0de4dd3624d8e0b6
+WHAT IS IN THE IMAGE: 一排四个汉堡，从左到右标注：メガマック（4 块肉饼）、ギガ ビッグマック、グランド ビッグマック、ビッグマック ジュニア（单层）。
+DO NOT DESCRIBE AS: 这不是 2007 年当年的广告原图，是 2021 年 50 周年官网的回顾图；不要把中间的ギガ、グランド说成メガマック
+NOTES: 同一张图同时挂在“4块肉”和“只剩1层”。备选：维基共享资源 2007-02-04 日本门店实拍 Mega Mac（公有领域，1216×973）https://commons.wikimedia.org/wiki/File:MEGA_MAC_jp-1.jpg ；2019-04-11 官方新闻稿 Jr. 图（Wayback，684×244 小图）。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

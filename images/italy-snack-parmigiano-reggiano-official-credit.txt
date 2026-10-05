@@ -1,0 +1,15 @@
+TITLE: 意大利麦当劳官网 Snack di Parmigiano Reggiano 产品页主图
+SOURCE PAGE: https://www.mcdonalds.it/prodotti/nuggets-sfiziosita-e-salse/snack-di-parmigiano-reggiano
+AUTHOR/RIGHTS HOLDER: McDonald's Italia
+DATE: 官网现行，2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 2880x1380
+SHA256: be278410f85737717bfca299af26567a3e7c7a899b13ea014ff495d9e22e3a77
+WHAT IS IN THE IMAGE: 白色桌面上一个撕开的银色小包装，印着 Parmigiano Reggiano 标志和“Parmareggio Snack!”，旁边一块帕玛森芝士，背景虚化的金拱门。
+DO NOT DESCRIBE AS: 不是已下架的 McItaly 汉堡；包装上的 Parmareggio 是供应商品牌
+NOTES: 原图 2880×1380（Drupal 原文件），直链直接访问 403，用浏览器在官网页面上下载。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

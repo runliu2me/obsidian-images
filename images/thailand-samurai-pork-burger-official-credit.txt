@@ -1,0 +1,15 @@
+TITLE: 泰国麦当劳官网 McDelivery 菜单“Samurai Pork Burger (Pork)”产品图
+SOURCE PAGE: https://www.mcdonalds.co.th/mcDelivery/category/burger
+AUTHOR/RIGHTS HOLDER: McDonald's Thailand（McThai Co., Ltd.）
+DATE: 官网现行，2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 600x400
+SHA256: f1fd4a8cbce2288f843a7094054607a5559c82ff7c76f0449134f38d80927c4d
+WHAT IS IN THE IMAGE: 芝麻面包、白色酱、生菜，下面一块浇深色照烧风味酱的猪肉饼。
+DO NOT DESCRIBE AS: 不是日本照烧堡；上市年份未查到
+NOTES: 官网原图 600×400，未找到更大官方版本。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

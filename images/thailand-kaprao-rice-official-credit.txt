@@ -1,0 +1,15 @@
+TITLE: 泰国麦当劳官网 Our Food 页“Kaprao Rice”产品图
+SOURCE PAGE: https://www.mcdonalds.co.th/ourFood
+AUTHOR/RIGHTS HOLDER: McDonald's Thailand（McThai Co., Ltd.）
+DATE: 官网现行（2018 上传），2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 600x399
+SHA256: 693f3961f89bb321b9f1f9e281ebdb9348c8768ecf25f94a421ee3182ca7c520
+WHAT IS IN THE IMAGE: 白盘里一份打抛炒鸡（罗勒叶、辣椒）配一团白米饭。
+DO NOT DESCRIBE AS: 不是 2026 年 Taste of Thailand 的 Spicy Chicken Zeed Rice
+NOTES: 已在官网页面核对：此图所在格子标题为“Kaprao Rice”。原图 600×399。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

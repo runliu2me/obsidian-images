@@ -1,0 +1,15 @@
+TITLE: 菲律宾麦当劳官网 2pc. Chicken McDo with Rice 产品图
+SOURCE PAGE: https://www.mcdonalds.com.ph/our-food/chicken-platters
+AUTHOR/RIGHTS HOLDER: McDonald's Philippines（Golden Arches Development Corp.）
+DATE: 官网现行（2024-03 上传），2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 500x500
+SHA256: 888af27dbc493c36c07dc2eafff43d430c41534f019fddaee095078d14ff7393
+WHAT IS IN THE IMAGE: 盘里两块带骨炸鸡、一团白米饭、一小杯肉汁。
+DO NOT DESCRIBE AS: 不是肯德基或 Jollibee 的炸鸡饭
+NOTES: 官网原图 500×500，未找到更大官方版本。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

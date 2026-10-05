@@ -1,0 +1,15 @@
+TITLE: 委内瑞拉麦当劳官网“Hamburguesas”汉堡菜单页截图（2026-10-05）
+SOURCE PAGE: https://www.mcdonalds.com.ve/menu/hamburguesas
+AUTHOR/RIGHTS HOLDER: McDonald's Venezuela（Arcos Dorados）
+DATE: 2026-10-05 截图（浏览器 1440 宽，2 倍像素）
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认；本图为官网页面截图
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 2880x3120
+SHA256: 7658260679cea582ecb1239e3367a0095356ac991721557f9d870852b4f50e9a
+WHAT IS IN THE IMAGE: 官网汉堡菜单共 8 款：Big Cheddar、McNífica、Doble McNífica、Hamburguesa con Queso、Hamburguesa、McTocineta、Doble Big Cheddar、Doble Big Cheddar con Tocineta——没有 Big Mac。
+DO NOT DESCRIBE AS: 这是“没有巨无霸”的画面，不是 2016 年停售当时的照片；不要说 Big Cheddar 就是换了名的巨无霸
+NOTES: Big Cheddar 单品官方图只有 300×225，故用整页菜单截图。TIME 2016-07-22 报道 https://time.com/4420029/mcdonalds-big-mac-venezuela/ 配图为通讯社图片，不转存。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

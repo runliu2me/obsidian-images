@@ -1,0 +1,15 @@
+TITLE: 埃及麦当劳官网 McFalafel 产品图
+SOURCE PAGE: https://www.mcdonalds.eg/eat/menu/Item/McFalafel
+AUTHOR/RIGHTS HOLDER: McDonald's Egypt（Manfoods）
+DATE: 官网现行，2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 700x345
+SHA256: 32ddbc64c536b8be68ec8120a4d2cd38848aba439fa31c3367c67b41e1ebd3b3
+WHAT IS IN THE IMAGE: 一个烤饼卷（tortilla），露出里面的炸豆饼、番茄、生菜、洋葱、酸黄瓜和芝麻酱。
+DO NOT DESCRIBE AS: 现行 McFalafel 是卷饼不是汉堡；官网写“三块炸豆饼卷在 tortilla 里”，与 2001 年首发时的汉堡面包版不同
+NOTES: 官网原图 700×345，直链直接访问 403，用浏览器在官网页面上下载。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

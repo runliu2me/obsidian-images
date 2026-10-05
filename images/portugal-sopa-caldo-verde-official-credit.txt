@@ -1,0 +1,15 @@
+TITLE: 葡萄牙麦当劳官网 Sopas 页“Sopa Caldo Verde（羽衣甘蓝土豆汤）”产品图
+SOURCE PAGE: https://www.mcdonalds.pt/produtos/sopas
+AUTHOR/RIGHTS HOLDER: McDonald's Portugal（Sistemas McDonald's Portugal）
+DATE: 官网现行，2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 500x500
+SHA256: 53b78eee60fbd82525d6d3fee60fa903460c9c0183b7571914530404e8dcbc72
+WHAT IS IN THE IMAGE: 一杯印着“Sopíssima”和金拱门的纸杯汤，里面是羽衣甘蓝土豆汤，上面一片红色香肠。
+DO NOT DESCRIBE AS: 现在官网是 4 种汤；“一周七天一天一种”只是 2005 年的做法
+NOTES: 官网原图 500×500，直链直接访问 403，用浏览器在官网页面上下载。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

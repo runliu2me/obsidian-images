@@ -1,0 +1,15 @@
+TITLE: 日本麦当劳 50 周年官网「てりやきマックバーガー」页头图
+SOURCE PAGE: https://www.mcdonalds.co.jp/campaign/thankyou50th/history/funburger/teriyakimcburger/
+AUTHOR/RIGHTS HOLDER: 日本マクドナルド株式会社
+DATE: 50 周年官网（2021），2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 1020x400
+SHA256: b61a493731f2059fb006a90de828ac5ad501af62a791f33d82be462e72953e6b
+WHAT IS IN THE IMAGE: 芝麻面包、生菜、蛋黄酱，下面一块浇满深色照烧酱的猪肉饼。
+DO NOT DESCRIBE AS: 是猪肉饼，不是照烧牛肉堡；不是 1989 年首发当年的广告图
+NOTES: 官网产品页图只有 460×220，这张 1020×400 更大。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

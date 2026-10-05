@@ -1,0 +1,15 @@
+TITLE: 麦当劳美国官网“Spam Eggs and Rice”产品图（夏威夷地区菜单）
+SOURCE PAGE: https://www.mcdonalds.com/us/en-us/product/spam-eggs-and-rice.html
+AUTHOR/RIGHTS HOLDER: McDonald's USA
+DATE: 官网现行（Scene7 资源 DC_202405_8660_SpamRiceEgg_1564x1564），2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 1564x1564
+SHA256: 239e300cf3f7c70553b170dddf1518da9d38110661f860b8f2c59dde91c967e2
+WHAT IS IN THE IMAGE: 白盘里两片煎午餐肉、一团白米饭、一份炒蛋。
+DO NOT DESCRIBE AS: 这是夏威夷地区菜单，不是全美菜单；页面在美国官网，不写“全美都卖”
+NOTES: 原图 1564×1564（Scene7 原始尺寸）。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

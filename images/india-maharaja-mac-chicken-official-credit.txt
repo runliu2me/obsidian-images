@@ -1,0 +1,15 @@
+TITLE: 印度 Maharaja Mac（大君麦克）官方产品图：鸡肉版（Chicken Maharaja Mac）；同页另有素版一张
+SOURCE PAGE: https://www.mcdonaldsindia.com/favorites.html
+AUTHOR/RIGHTS HOLDER: McDonald's India（西/南运营方 Hardcastle Restaurants，Westlife Foodworld）
+DATE: 官网现行，2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 575x517
+SHA256: 8d256a8a6e02af8007627dd5d0e6ae7a742109738e7f9281d0e1c8aed0bed135
+WHAT IS IN THE IMAGE: 鸡肉版：三层芝麻面包夹两块裹粉鸡肉饼、生菜、红洋葱、墨西哥辣椒、切达奶酪、酱，左下红色非素标；素版：两块金黄玉米奶酪饼，左下绿色素食标。
+DO NOT DESCRIBE AS: 不要说成 Big Mac；不要说素版是土豆鹰嘴豆饼；1996 年首发是羊肉版，这两张是现行鸡肉、素版
+NOTES: 两张同出官网 favorites 页，原图各 575×517，官网与 McDelivery（456×321）均无更大版本。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

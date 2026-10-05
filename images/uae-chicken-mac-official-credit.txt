@@ -1,0 +1,15 @@
+TITLE: 阿联酋麦当劳官网 Chicken Mac™ 产品图
+SOURCE PAGE: https://www.mcdonalds.com/ae/en-ae/product/chicken-mac.html
+AUTHOR/RIGHTS HOLDER: McDonald's UAE（Emirates Fast Food Company）
+DATE: 官网现行（Scene7 资源 1mcd-chicken-mac-uae-1223），2026-10-05 取
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 832x822
+SHA256: 2ee2ee05e190fce60158980c51d18f1dba106f51d69ea735e3c0c4981b987c37
+WHAT IS IN THE IMAGE: 巨无霸三层芝麻面包，夹两块裹粉鸡肉饼、生菜、白色蛋黄酱、切达奶酪。
+DO NOT DESCRIBE AS: 不要叫 Chicken Big Mac（官方名是 Chicken Mac）；不要说成 McArabia；换酱原因官方没写
+NOTES: 原图 832×822（Scene7 原始尺寸，scl=1 输出 PNG，未放大）。沙特官网同名产品页 403，未单独取图。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no

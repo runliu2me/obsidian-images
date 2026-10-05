@@ -1,0 +1,15 @@
+TITLE: 以色列麦当劳官网 ביג מק（巨无霸）产品图，无奶酪
+SOURCE PAGE: http://web.archive.org/web/20230624033357/https://www.mcdonalds.co.il/מה_בתפריט/מוצרים_בודדים/המבורגרים/ביג
+AUTHOR/RIGHTS HOLDER: McDonald's Israel（Alonyal Ltd.，当时的以色列加盟商）
+DATE: 图片存档 2019（Wayback），官网产品页 2023-06-24 存档仍用此图
+LICENSE: 版权属麦当劳（McDonald's 及当地运营方）。官方产品宣传图，仅作演讲引用，待法务确认
+USAGE PERMISSION: UNCONFIRMED
+NOTE: 使用许可未确认。官方产品宣传图，版权属麦当劳；仅作演讲引用，上屏前待法务确认。
+PIXELS: 800x800
+SHA256: b44ff357573fadb7c0e330d6517e80df96e347994923daec6ec23c126d998c60
+WHAT IS IN THE IMAGE: 两块牛肉饼、三层面包、生菜、酸黄瓜、巨无霸酱，画面里没有奶酪片。
+DO NOT DESCRIBE AS: 不要说成“以色列所有门店都不能加奶酪”；不要牵涉 2023 年后的冲突与抵制
+NOTES: 直链 http://web.archive.org/web/2019id_/https://www.mcdonalds.co.il/filestock/img/img_1468323755599-0.png ；已核对它是存档巨无霸产品页上唯一的产品图。以色列现行官网 403 打不开。
+USE: 刘润2026年度演讲 M07《Glocal》开场主屏图墙“同一个巨无霸/同一个麦当劳，各国各不同”
+DOWNLOADED: 2026-10-05
+MODIFIED: no
