@@ -1,0 +1,11 @@
+TITLE: China annual real GDP growth, 1949-2025 range
+SOURCE PAGE: https://data.stats.gov.cn/dg/website/page.html#/pc/national/yearData?cid=489888799f8d470786bc01a4057efc38
+AUTHOR: Codex for annualspeech project; numerical data National Bureau of Statistics of China
+DATE: NPS publication date not specified; NBS queried 2026-10-06
+LICENSE: Independently plotted from public numerical statistical facts at user request. No NBS chart image copied.
+USAGE PERMISSION: ORIGINAL PROJECT CHART
+PIXELS: 3200 x 1800
+SHA256: 7d15dc10970303196ec2d3f662a2a2747a23dec62cc9f72a4f053aeee43fd89f
+CONTENT AND LIMITS: Annual constant-price growth, official GDP index (previous year=100) minus 100. 1949-1952 unavailable, no interpolation or zero filling; 2025 preliminary.
+DOWNLOADED/CREATED: 2026-10-06
+MODIFIED: no

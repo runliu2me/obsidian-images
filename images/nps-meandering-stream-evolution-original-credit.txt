@@ -1,0 +1,14 @@
+TITLE: Meandering Stream Evolution
+SOURCE PAGE: https://www.nps.gov/media/photo/gallery-item.htm?gid=AB7E48C7-9873-4999-9A89-71F330FEC4AD&id=b72a7f5b-61b5-4b0a-b78e-843c6e341aaa&pg=0
+AUTHOR: Phil Reiker, NPS Geologic Resources Division
+DATE: NPS publication date not specified; NBS queried 2026-10-06
+LICENSE: Public domain; GrantingRights: Full, as expressly recorded in NPS gallery asset metadata.
+USAGE PERMISSION: PUBLIC DOMAIN
+PIXELS: 1000 x 1800
+SHA256: c3408b6193e3144a301f4277fa2dbb3f7de516ce401f7a42cec3efcdc2fb6e56
+CONTENT AND LIMITS: Official four-stage diagram of meander loop development, cutoff, and oxbow lake. Not a photograph of Morigele River; not evidence of water flowing uphill.
+DOWNLOADED/CREATED: 2026-10-06
+MODIFIED: no
+LICENSE PAGE: https://www.nps.gov/aboutus/disclaimer.htm
+ORIGINAL FILE: https://www.nps.gov/npgallery/GetAsset/b72a7f5b-61b5-4b0a-b78e-843c6e341aaa
+No claim to original U.S. Government works.
